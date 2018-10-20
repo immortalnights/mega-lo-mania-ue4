@@ -1,0 +1,462 @@
+[
+	{
+		"Name": "Bazooka",
+		"Display Name": "Bazooka",
+		"Type": "Offensive",
+		"Recipes": [
+			{
+				"Aquarium": 1,
+				"Onions": 2
+			},
+			{
+				"Aquarium": 1,
+				"Tediums": 2
+			},
+			{
+				"Paladium": 1,
+				"Onions": 2
+			},
+			{
+				"Paladium": 1,
+				"Tediums": 2
+			}
+		]
+	},
+	{
+		"Name": "Bi-Plane",
+		"Display Name": "Bi-Plane",
+		"Type": "Offensive",
+		"Recipes": [
+			{
+				"Aruldites": 1.5,
+				"Tediums": 0.5,
+				"Morons": 4
+			},
+			{
+				"Bethliums": 1.5,
+				"Onions": 0.5,
+				"Morons": 4
+			}
+		]
+	},
+	{
+		"Name": "Boiling Oil",
+		"Display Name": "Boiling Oil",
+		"Type": "Defensive",
+		"Recipes": [
+			{
+				"Aruldites": 2,
+				"Parasite": 1
+			},
+			{
+				"Bethliums": 2,
+				"Parasite": 1
+			}
+		]
+	},
+	{
+		"Name": "Bow and Arrow",
+		"Display Name": "Bow and Arrow",
+		"Type": "Defensive",
+		"Recipes": [
+			{
+				"Rock": 1,
+				"Slate": 0.5
+			}
+		]
+	},
+	{
+		"Name": "Cannon",
+		"Display Name": "Cannon",
+		"Type": "Offensive",
+		"Recipes": [
+			{
+				"Aruldites": 5,
+				"Onion": 1
+			},
+			{
+				"Aruldites": 5,
+				"Tedium": 1
+			},
+			{
+				"Bethliums": 5,
+				"Onion": 1
+			},
+			{
+				"Bethliums": 5,
+				"Tedium": 1
+			},
+			{
+				"Solariums": 5,
+				"Onion": 1
+			},
+			{
+				"Solariums": 5,
+				"Tedium": 1
+			}
+		]
+	},
+	{
+		"Name": "Catapault",
+		"Display Name": "Catapault",
+		"Type": "Offensive",
+		"Recipes": [
+			{
+				"Moonlites": 3,
+				"Bethlium": 1,
+				"Yeridiums": 0.5
+			},
+			{
+				"Slates": 3,
+				"Bethlium": 1,
+				"Yeridiums": 0.5
+			}
+		]
+	},
+	{
+		"Name": "Crossbow",
+		"Display Name": "Crossbow",
+		"Type": "Defensive",
+		"Recipes": [
+			{
+				"Rocks": 0.5,
+				"Aruldites": 0.5,
+				"Aquariums": 0.5,
+			},
+			{
+				"Woods": 0.5,
+				"Aruldites": 0.5,
+				"Aquariums": 0.5
+			},
+			{
+				"Woods": 0.5,
+				"Bethliums": 0.5,
+				"Aquariums": 0.5
+			}
+		]
+	},
+	{
+		"Name": "Jet",
+		"Display Name": "Jet",
+		"Type": "Offensive",
+		"Recipes": [
+			{
+				"Moonlites": 0.5,
+				"Aquariums": 1.5,
+				"Tediums": 5.5
+			},
+			{
+				"Planetariums": 0.5,
+				"Paladiums": 1.5,
+				"Tediums": 5.5
+			},
+			{
+				"Planetariums": 0.5,
+				"Aquariums": 1.5,
+				"Onions":  5.5
+			},
+			{
+				"Slates": 0.5,
+				"Aquariums": 1.5,
+				"Tediums": 5.5
+			}
+		]
+	},
+	{
+		"Name": "Longbow",
+		"Display Name": "Longbow",
+		"Type": "Offensive",
+		"Recipes": [
+			{
+				"Moonlite": 1,
+				"Bethliums": 0.5,
+				"Yeridiums": 0.5
+			}
+		]
+	},
+	{
+		"Name": "Machine Gun",
+		"Display Name": "Machine Gun",
+		"Type": "Defensive",
+		"Recipes": [
+			{
+				"Planetariums": 0.5,
+				"Valium": 1,
+				"Tedium": 1
+			}
+		]
+	},
+	{
+		"Name": "Nuclear Missile",
+		"Display Name": "Nuclear Missile",
+		"Type": "Offensive",
+		"Recipes": [
+			{
+				"Aruldites": 0.5,
+				"Aquariums": 2,
+				"Maamites": 3
+			},
+			{
+				"Aruldites": 0.5,
+				"Paladiums": 2,
+				"Maamites": 3
+			},
+			{
+				"Bethliums": 0.5,
+				"Aquariums": 2,
+				"Maamites": 3
+			},
+			{
+				"Solariums": 0.5,
+				"Aquariums": 2,
+				"Maamites": 3
+			},
+			{
+				"Solariums": 0.5,
+				"Paladiums": 2,
+				"Maamites": 3
+			}
+		]
+	},
+	{
+		"Name": "Neclear Deterrent",
+		"Display Name": "Nuclear Deterrent",
+		"Type": "Defensive",
+		"Recipes": [
+			{
+				"Rocks": 0.5,
+				"Aquariums": 2,
+				"Maamites": 3
+			},
+			{
+				"Rocks": 0.5,
+				"Paladiums": 2,
+				"Maamites": 3
+			}
+		]
+	},
+	{
+		"Name": "Pike",
+		"Display Name": "Pike",
+		"Type": "Offensive",
+		"Recipes": [
+			{
+				"Moonlite": 1,
+				"Bethliums": 0.5
+			},
+			{
+				"Planetarium": 1,
+				"Solariums": 0.5
+			},
+			{
+				"Slate": 1,
+				"Bethliums": 0.5
+			},
+			{
+				"Slate": 1,
+				"Solariums": 0.5
+			},
+			{
+				"Rock": 0.5,
+				"Slate": 1
+			}
+		]
+	},
+	{
+		"Name": "Rock",
+		"Display Name": "Rock",
+		"Type": "Offensive",
+		"Recipes": [
+			{
+				"Bones": 1.5
+			},
+			{
+				"Rocks": 1.5
+			},
+			{
+				"Woods": 1.5
+			}
+		]
+	},
+	{
+		"Name": "Saucer",
+		"Display Name": "Saucer",
+		"Type": "Offensive",
+		"Recipes": [
+			{
+				"Morons ": 2.5,
+				"Maamit": 5,
+				"Aliens": 0.5
+			}
+		]
+	},
+	{
+		"Name": "SDI",
+		"Display Name": "SDI",
+		"Type": "Defensive",
+		"Recipes": [
+			{
+				"Morons": 1.5
+			},
+			{
+				"Aliens": 3.5
+			}
+		]
+	},
+	{
+		"Name": "Shield 1",
+		"Display Name": "Shield 1",
+		"Type": "Repair",
+		"Recipes": [
+			{
+				"Moonlites": 1.5,
+				"Aruldite": 1,
+				"Maamites": 0.5
+			},
+			{
+				"Moonlites": 1.5,
+				"Solarium": 1,
+				"Maamites": 0.5
+			},
+			{
+				"Rocks": 2,
+				"Slate": 1
+			},
+			{
+				"Oods": 0.5 ,
+				"Aruldites": 5,
+				"Paladium": 0.1
+			}
+		]
+	},
+	{
+		"Name": "Shield 2",
+		"Display Name": "Shield 2",
+		"Type": "Repair",
+		"Recipes": [
+			{
+				"Rocks": 0.5,
+				"Aruldites": 5,
+				"Aquarium": 0.1,
+			},
+			{
+				"Rocks": 2,
+				"Yeridiums": 5,
+				"Morons": 0.5
+			},
+			{
+				"Solarium": 1,
+				"Valiums": 5,
+				"Maamites": 0.5
+			},
+			{
+				"Yeridiums": 2,
+				"Alien": 1
+			}
+		]
+	},
+	{
+		"Name": "Sheild 3",
+		"Display Name": "Sheild 3",
+		"Type": "Repair",
+		"Recipes": [
+			{
+				"Bones": 2.5,
+				"Aquariums": 0.5
+			},
+			{
+				"Planetariums": 1.5,
+				"Bethlium": 1,
+				"Maamites": 0.5
+			},
+			{
+				"Planetariums": 1.5,
+				"Solarium": 1,
+				"Maamites": 0.5
+			},
+			{
+				"Slates": 2.5,
+				"Herbirites": 0.5
+			}
+		]
+	},
+	{
+		"Name": "Shield 4",
+		"Display Name": "Shield 4",
+		"Type": "Repair",
+		"Recipes": [
+			{
+				"Bones": 0.5,
+				"Aruldites": 5,
+				"Aquarium": 1
+			},
+			{
+				"Bones": 2,
+				"Herbirites": 5,
+				"Valiums": 0.5
+			},
+			{
+				"Morons": 0.5,
+				"Herbirites": 5,
+				"Rocks": 2
+			},
+			{
+				"Yeridiums": 2
+			},
+			{
+				"Alien": 1
+			}
+		]
+	},
+	{
+		"Name": "Sling",
+		"Display Name": "Sling",
+		"Type": "Offensive",
+		"Recipes": [
+			{
+				"Bones": 0.5,
+				"Aruldites": 0.5
+			},
+			{
+				"Bones": 0.5,
+				"Solariums": 0.5
+			},
+			{
+				"Rocks": 0.5,
+				"Solariums": 0.5
+			},
+			{
+				"Woods": 0.5,
+				"Bethliums": 0.5
+			}
+		]
+	},
+	{
+		"Name": "Spear",
+		"Display Name": "Spear",
+		"Type": "Defensive",
+		"Recipes": [
+			{
+				"Rocks": 0.5,
+				"Moonlites": 0.5
+			},
+			{
+				"Rocks": 0.5,
+				"Slate": 1
+			}
+		]
+	},
+	{
+		"Name": "Stick",
+		"Display Name": "Stick",
+		"Type": "Defensive",
+		"Recipes": [
+			{
+				"Planetariums": 1.5
+			},
+			{
+				"Slates": 1.5
+			}
+		]
+	}
+]
