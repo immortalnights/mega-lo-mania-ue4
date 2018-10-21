@@ -87,11 +87,11 @@
 				"Tedium": 1
 			},
 			{
-				"Solariums": 5,
+				"Solarium": 5,
 				"Onion": 1
 			},
 			{
-				"Solariums": 5,
+				"Solarium": 5,
 				"Tedium": 1
 			}
 		]
@@ -171,6 +171,10 @@
 				"Moonlite": 1,
 				"Bethliums": 0.5,
 				"Yeridiums": 0.5
+			},
+			{
+				"Slate": 1,
+				"Solarium": 1
 			}
 		]
 	},
@@ -207,12 +211,12 @@
 				"Maamites": 3
 			},
 			{
-				"Solariums": 0.5,
+				"Solarium": 0.5,
 				"Aquariums": 2,
 				"Maamites": 3
 			},
 			{
-				"Solariums": 0.5,
+				"Solarium": 0.5,
 				"Paladiums": 2,
 				"Maamites": 3
 			}
@@ -246,7 +250,7 @@
 			},
 			{
 				"Planetarium": 1,
-				"Solariums": 0.5
+				"Solarium": 0.5
 			},
 			{
 				"Slate": 1,
@@ -254,7 +258,7 @@
 			},
 			{
 				"Slate": 1,
-				"Solariums": 0.5
+				"Solarium": 0.5
 			},
 			{
 				"Rock": 0.5,
@@ -419,11 +423,11 @@
 			},
 			{
 				"Bones": 0.5,
-				"Solariums": 0.5
+				"Solarium": 0.5
 			},
 			{
 				"Rocks": 0.5,
-				"Solariums": 0.5
+				"Solarium": 0.5
 			},
 			{
 				"Woods": 0.5,
